@@ -1,0 +1,9 @@
+[4/25/2014 1:31:01 PM] Started removing Passwords from PDF documents !
+[4/25/2014 1:31:01 PM] Removing Passwords from PDF file : C:\code\PDF Tools\Test Documents\spooky.pdf
+[4/25/2014 1:31:02 PM] Operation completed successfully !
+[4/25/2014 1:31:28 PM] Started removing Passwords from PDF documents !
+[4/25/2014 1:31:28 PM] Removing Passwords from PDF file : C:\code\PDF Tools\Test Documents\spooky.pdf
+[4/25/2014 1:31:28 PM] An error occured !
+An error occured while removing Passwords from PDF File : C:\code\PDF Tools\Test Documents\spooky.pdf
+Object reference not set to an instance of an object.
+
